@@ -1,4 +1,8 @@
-{
-  "##replace": "username",
-  "default": "anonymous aadvark"
-}
+[
+  "&+",
+  "The user is: ",
+  {
+    "##replace": "username",
+    "default": "anonymous aadvark"
+  }
+]
